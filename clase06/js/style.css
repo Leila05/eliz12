@@ -1,0 +1,7 @@
+div#container {
+    margin: auto;
+    margin-top: 60px;
+    width: 960px;
+    height: 800px;
+    background-color: brown;
+}
